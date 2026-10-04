@@ -1,0 +1,11 @@
+#pragma once
+
+#define SDL_Snake_Version_Major @SDL_Snake_VERSION_MAJOR@
+#define SDL_Snake_Version_Minor @SDL_Snake_VERSION_MINOR@
+#define SDL_Snake_Version_Patch @SDL_Snake_VERSION_PATCH@
+#define SDL_Snake_Version_Tweak @SDL_Snake_VERSION_TWEAK@
+
+#define SDL_Snake_Version "@SDL_Snake_VERSION@"
+#define SDL_Snake_VersionShort "@SDL_Snake_VERSION_MAJOR@.@SDL_Snake_VERSION_MINOR@"
+#define SDL_Snake_VersionLong "@SDL_Snake_VERSION_MAJOR@.@SDL_Snake_VERSION_MINOR@.@SDL_Snake_VERSION_PATCH@"
+

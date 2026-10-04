@@ -67,6 +67,13 @@ vcpkg_installed/
 Testing/
 .cache/
 
+# cmake
+build/**
+CMakeCache.txt
+CMakeLists.txt-example
+out/**
+
+# temp and backup
 tmp/**
 *.bak
 *-bak
